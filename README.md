@@ -41,7 +41,6 @@ Built relationships and created calculated measures for total sales and price.
 
 Designed visuals for market insights and applied slicers for interactivity.
 
-🖼 Screenshot
 
 💡 Insights
 
